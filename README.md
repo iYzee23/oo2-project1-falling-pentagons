@@ -1,0 +1,2 @@
+# oo2-project1-falling-pentagons
+Java GUI based project that simulates sort of "Chicken invaders" with falling pentagons and basic weapon equipment (including score updating and button for starting). Scope of this project includes principles of objected-oriented programming (ie. polymorphism, inheritance, etc...) as well as thread management, thread synchronization, thread interrupting and so on. Program was written using Java AWT package
